@@ -2,6 +2,8 @@
 
 微信小程序本地svg图标方案
 
+博客地址[《阿里iconfont挂了之后...小程序项目内维护图标的方案》](https://www.jianshu.com/p/c6cda7bfd91a)
+
 ## 使用
 
 首先将svg图标放在static目录的img文件夹下
