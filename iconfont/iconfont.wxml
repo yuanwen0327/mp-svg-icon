@@ -1,0 +1,7 @@
+<!-- <view class="svg_icon" style="color:{{color}};font-size:{{size}}px;">
+  <image id="img" class="svg_icon-inner" mode="heightFix" style="" src="/static/icon/{{name}}.svg"/>
+</view> -->
+
+<!-- <view class="svg_icon" style="-webkit-mask-box-image:url(/static/icon/{{name}}.svg);mask:url(/static/icon/{{name}}.svg)"></view> -->
+
+<view class="svg_icon" wx:if="{{svgStyle}}" style="{{svgStyle}};"></view>

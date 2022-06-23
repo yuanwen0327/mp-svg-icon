@@ -1,0 +1,17 @@
+:host{
+  display: inline-block;
+}
+/* .svg_icon{
+  overflow: hidden;
+  height: 1em;
+}
+ .svg_icon-inner {
+  display: block;
+  height: 1em;
+  transform: translateY(-1em) translateZ(0);
+  filter: drop-shadow(0 1em 0 currentColor);
+ } */
+
+ .svg_icon{
+  /* background: red; */
+ }
